@@ -1,0 +1,33 @@
+/.angular/cache
+/node_modules/
+/coverage/
+/dist/
+/dll/
+/documentation/
+/tmp/
+/src/assets/i18n/merged*.json
+/karma-coverage.iml
+/.idea/
+/**/**/coverage
+# IDEs
+.idea/
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.vs
+
+*.log
+*.tgz
+
+# Custom config
+*.custom.js
+*.custom.json
+
+# System Files
+.DS_Store
+Thumbs.db
+.vscode/settings.json
+
+.nx/cache
